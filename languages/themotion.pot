@@ -1,0 +1,1175 @@
+# Copyright (C) 2016 ThemeIsle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TheMotion 1.1.5\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/themotion/issues\n"
+"POT-Creation-Date: 2016-10-12 14:04:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:25
+msgid "Can&rsquo;t find what you&rsquo;re looking for?"
+msgstr ""
+
+#: 404.php:26
+msgid "Try using the search form below!"
+msgstr ""
+
+#: archive-download.php:45 archive.php:45 inc/extras.php:236 inc/extras.php:284
+#: inc/extras.php:332 index.php:46 page-templates/template-about-us.php:86
+#: page-templates/template-homepage-one.php:180
+#: page-templates/template-homepage-two.php:62 search.php:45
+msgid "Older Posts"
+msgstr ""
+
+#: archive-download.php:46 archive.php:46 inc/extras.php:237 inc/extras.php:285
+#: inc/extras.php:333 index.php:47 page-templates/template-about-us.php:87
+#: page-templates/template-homepage-one.php:181
+#: page-templates/template-homepage-two.php:63 search.php:46
+msgid "Newer Posts"
+msgstr ""
+
+#: comments.php:45 comments.php:72
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:50 comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:30 inc/features/feature-copyright-controls.php:20
+msgid "Proudly powered by  %1$s | Theme: themotion powered by %2$s"
+msgstr ""
+
+#: footer.php:31 inc/features/feature-copyright-controls.php:21
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:32 inc/features/feature-copyright-controls.php:22
+msgid "Themeisle"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#: functions.php:144
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:146 functions.php:156
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:154
+msgid "Footer Single Widget Area"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: functions.php:249
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:250
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:318 template-parts/content-single-download.php:40
+#: template-parts/content-single.php:44
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:349 inc/features/feature-homepage-a-ribbon.php:33
+#: inc/features/feature-homepage-b.php:30 inc/frontpage-sections.php:16
+#: inc/frontpage-sections.php:75 template-parts/ribbon-content.php:8
+msgid ""
+"A collection of high quality videos focused on putting your business in "
+"motion."
+msgstr ""
+
+#: functions.php:350 inc/features/feature-about-page.php:57
+#: inc/features/feature-homepage-b.php:43 inc/frontpage-sections.php:17
+#: inc/frontpage-sections.php:76 inc/frontpage-sections.php:289
+msgid "See all videos"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:25
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: image.php:41
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:42
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:47 page-templates/template-about-us.php:103
+#: page-templates/template-homepage-one.php:204
+#: page-templates/template-homepage-two.php:69
+#: template-parts/content-single-download.php:33
+#: template-parts/content-single.php:26
+msgid "Edit"
+msgstr ""
+
+#: image.php:68
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:69
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:75 template-parts/content-contact.php:19
+#: template-parts/content-home-two.php:66 template-parts/content-page.php:18
+#: template-parts/content-single-download.php:45
+#: template-parts/content-single.php:49 template-parts/content.php:70
+msgid "Pages:"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with TheMotion's latest news"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:65
+#: inc/admin/welcome-screen/welcome-screen.php:106
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:13
+msgid "Welcome to The Motion!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid ""
+"We want to make sure you have the best experience using TheMotion and that "
+"is why we gathered here all the necessary informations for you. We hope you "
+"will enjoy using TheMotion, as much as we enjoy creating great products."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:23
+#: inc/admin/welcome-screen/welcome-screen.php:210
+msgid "Getting started"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:25
+msgid "Customize everything in a single place."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:27
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:35
+msgid "FAQ"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:41
+msgid "Create a child theme"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:42
+msgid ""
+"If you want to make changes to the theme's files, those changes are likely "
+"to be overwritten when you next update the theme. In order to prevent that "
+"from happening, you need to create a child theme. For this, please follow "
+"the documentation below."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:43
+#: inc/admin/welcome-screen/sections/getting-started.php:49
+#: inc/admin/welcome-screen/sections/getting-started.php:55
+#: inc/admin/welcome-screen/sections/getting-started.php:63
+msgid "View how to do this"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:47
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+msgid ""
+"In the below documentation you will find an easy way to build a great "
+"looking landing page using a drag-and-drop content builder plugin."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:53
+msgid "Translate TheMotion"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+msgid ""
+"In the below documentation you will find an easy way to translate TheMotion "
+"into your native language or any other language you need for you site."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:61
+msgid "Speed up your site"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:62
+msgid ""
+"If you find yourself in the situation where everything on your site is "
+"running very slow, you might consider having a look at the below "
+"documentation where you will find the most common issues causing this and "
+"possible solutions for each of the issues."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+msgid ""
+"30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You "
+"a Better Blogger"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+msgid ""
+" At the address below you will find a cool set of original WordPress "
+"plugins that can give you great benefits despite being a little lesser "
+"known out there."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:69
+msgid "Read more"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:79
+msgid "View full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:80
+msgid ""
+"Need more details? Please check our full documentation for detailed "
+"information on how to use TheMotion."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:81
+msgid "Read full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:88
+msgid "Recommended plugins"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:94
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:95
+msgid ""
+"Build responsive page layouts using the widgets you know and love using "
+"this simple drag and drop page builder."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:99
+#: inc/admin/welcome-screen/sections/getting-started.php:119
+#: inc/admin/welcome-screen/sections/getting-started.php:139
+#: inc/admin/welcome-screen/sections/getting-started.php:157
+#: inc/admin/welcome-screen/sections/getting-started.php:178
+#: inc/admin/welcome-screen/sections/getting-started.php:197
+#: inc/admin/welcome-screen/sections/getting-started.php:216
+#: inc/admin/welcome-screen/sections/getting-started.php:234
+msgid "Already activated"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:104
+msgid "Install Page Builder by SiteOrigin"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:114
+msgid "WP Product Review"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:115
+msgid ""
+"Easily turn your basic posts into in-depth reviews with ratings, pros and "
+"cons, affiliate links, rich snippets and user reviews."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:124
+msgid "Install WP Product Review"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:134
+msgid "Custom Login Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:135
+msgid ""
+"Login Customizer plugin allows you to easily customize your login page "
+"straight from your WordPress Customizer! You can preview your changes "
+"before you save them!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:144
+msgid "Install Custom Login Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:162
+#: inc/admin/welcome-screen/sections/getting-started.php:239
+msgid "Install"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:173
+msgid "Visualizer: Charts and Graphs"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:174
+msgid ""
+"A simple, easy to use and quite powerful chart tool to create, manage and "
+"embed interactive charts into your WordPress posts and pages."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:183
+msgid "Install Visualizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:192
+msgid "Easy Content Types"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:193
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:202
+msgid "Download Easy Content Types"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:211
+msgid "Revive Old Post"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:212
+msgid ""
+"A plugin to share about your old posts on twitter, facebook, linkedin to "
+"get more hits for them and keep them alive."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:221
+msgid "Install Revive Old Post"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:66
+msgid ""
+"Welcome! Thank you for choosing TheMotion! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome "
+"page%1$s."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:67
+msgid "Get started with TheMotion"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:211
+msgid "Actions required"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:212
+msgid "Changelog"
+msgstr ""
+
+#: inc/class/themotion-category-selector.php:32
+msgid "All"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "TheMotion"
+msgstr ""
+
+#: inc/class/themotion-general-control.php:74
+#: inc/class/themotion-general-control.php:75
+#: inc/class/themotion-general-control.php:102
+#: inc/class/themotion-general-control.php:103
+#: inc/class/themotion-general-control.php:141
+#: inc/class/themotion-general-control.php:142 inc/customizer.php:237
+#: inc/features/feature-footer-content.php:132
+msgid "Text"
+msgstr ""
+
+#: inc/class/themotion-general-control.php:80
+#: inc/class/themotion-general-control.php:82
+#: inc/class/themotion-general-control.php:108
+#: inc/class/themotion-general-control.php:112
+#: inc/class/themotion-general-control.php:147
+#: inc/class/themotion-general-control.php:151
+msgid "Link"
+msgstr ""
+
+#: inc/class/themotion-general-control.php:87
+#: inc/class/themotion-general-control.php:122
+#: inc/class/themotion-general-control.php:161
+msgid "Delete field"
+msgstr ""
+
+#: inc/class/themotion-general-control.php:181
+msgid "Add new field"
+msgstr ""
+
+#: inc/class/themotion-pallete-picker.php:48
+#: inc/class/themotion-pallete-picker.php:65
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Add new social icon"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Hide social icons?"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "If you check this box, the social icons will disappear from Contact page."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Option A"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Top Section Post Category"
+msgstr ""
+
+#: inc/customizer.php:82 inc/customizer.php:177
+#: inc/features/feature-homepage-b.php:160 inc/frontpage-sections.php:195
+#: page-templates/template-about-us.php:22
+#: page-templates/template-homepage-one.php:137
+msgid "Recently Posted"
+msgstr ""
+
+#: inc/customizer.php:88
+msgid "Bottom posts title"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Bottom posts category"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Contact page"
+msgstr ""
+
+#: inc/customizer.php:113 inc/features/feature-about-page.php:25
+#: inc/features/feature-homepage-b.php:23
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:125 inc/features/feature-about-page.php:37
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer.php:132 inc/frontpage-sections.php:642
+msgid "FEEL FREE TO CONTACT US WITH ANY QUESTIONS OR COMMENTS"
+msgstr ""
+
+#: inc/customizer.php:138 inc/features/feature-about-page.php:50
+#: inc/features/feature-homepage-b.php:36
+msgid "Header text"
+msgstr ""
+
+#: inc/customizer.php:145 inc/frontpage-sections.php:643
+msgid "Send us an email"
+msgstr ""
+
+#: inc/customizer.php:151 inc/features/feature-about-page.php:63
+#: inc/features/feature-homepage-b.php:49
+msgid "Button text"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Latest posts"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Hide latest posts?"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "If you check this box, latest posts will disappear from About page."
+msgstr ""
+
+#: inc/customizer.php:183 inc/features/feature-footer-content.php:119
+#: inc/features/feature-homepage-b.php:166
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:195 inc/features/feature-homepage-b.php:92
+#: inc/features/feature-homepage-b.php:178
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:207 inc/features/feature-about-page.php:75
+#: inc/features/feature-homepage-b.php:61
+#: inc/features/feature-homepage-b.php:148
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Content Left Settings"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "WHY THE MOTION"
+msgstr ""
+
+#: inc/customizer.php:225 inc/customizer.php:256
+msgid "Block Title"
+msgstr ""
+
+#: inc/customizer.php:231 inc/features/feature-about-page.php:125
+#: inc/frontpage-sections.php:346 inc/frontpage-sections.php:700
+msgid ""
+"Using best practices and a keen eye, we curated this video feed for the "
+"business beginner and experienced alike. We are a resource for creatives "
+"wanting to push their business forward."
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Content Right Settings"
+msgstr ""
+
+#: inc/customizer.php:250 inc/frontpage-sections.php:701
+msgid "Get in touch"
+msgstr ""
+
+#: inc/customizer.php:262 inc/frontpage-sections.php:702
+msgid "The.Motion Headquarters"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Left side title"
+msgstr ""
+
+#: inc/customizer.php:274 inc/frontpage-sections.php:703
+msgid "329 South Street Court - Albany, NY 83741"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Left side text"
+msgstr ""
+
+#: inc/customizer.php:287 inc/features/feature-footer-content.php:84
+#: inc/frontpage-sections.php:704 template-parts/footer-content.php:77
+msgid "start@themotion.com"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Left side email"
+msgstr ""
+
+#: inc/customizer.php:299 inc/frontpage-sections.php:705
+msgid "(432) 203-3321"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Left side phone"
+msgstr ""
+
+#: inc/customizer.php:311 inc/frontpage-sections.php:706
+msgid "THE.MOTION VIDEO RECORDING"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Right side title"
+msgstr ""
+
+#: inc/customizer.php:323 inc/frontpage-sections.php:707
+msgid "153 East Fifth Avenue - New York, NY 83741"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Right side text"
+msgstr ""
+
+#: inc/customizer.php:336 inc/frontpage-sections.php:708
+msgid "recording@themotion.com"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Right side email"
+msgstr ""
+
+#: inc/customizer.php:348 inc/frontpage-sections.php:709
+msgid "(324) 923-8321"
+msgstr ""
+
+#: inc/customizer.php:354 inc/customizer.php:360
+msgid "Right side phone"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "Display featured images on single posts"
+msgstr ""
+
+#: inc/extras.php:165 page-templates/template-homepage-one.php:98
+msgid "Placeholder image"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About page"
+msgstr ""
+
+#: inc/features/feature-about-page.php:44 inc/frontpage-sections.php:288
+msgid "We are curators striving to help you Put Business In Motion"
+msgstr ""
+
+#: inc/features/feature-about-page.php:82
+msgid "Content Area Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:88 inc/frontpage-sections.php:343
+msgid "Our mission"
+msgstr ""
+
+#: inc/features/feature-about-page.php:94
+msgid "Block One Headline"
+msgstr ""
+
+#: inc/features/feature-about-page.php:100 inc/frontpage-sections.php:344
+msgid ""
+"We are a resource for creatives wanting to push their business forward. "
+"Using best practices and a keen eye, we curated this video feed for the "
+"business beginner and experienced alike."
+msgstr ""
+
+#: inc/features/feature-about-page.php:106
+msgid " Block One Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:113 inc/frontpage-sections.php:345
+msgid "Why the motion"
+msgstr ""
+
+#: inc/features/feature-about-page.php:119
+msgid "Block Two Headline"
+msgstr ""
+
+#: inc/features/feature-about-page.php:131
+msgid " Block Two Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:139
+msgid "Stats Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:151
+msgid "Hide all statistics?"
+msgstr ""
+
+#: inc/features/feature-about-page.php:152
+msgid "If you check this box, statistics will disappear from header."
+msgstr ""
+
+#: inc/features/feature-about-page.php:164
+#: inc/features/feature-about-page.php:189
+msgid "Stat one number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:171 inc/frontpage-sections.php:421
+msgid "Users"
+msgstr ""
+
+#: inc/features/feature-about-page.php:177
+msgid "Stat one text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:196 inc/frontpage-sections.php:423
+msgid "Videos"
+msgstr ""
+
+#: inc/features/feature-about-page.php:202
+msgid "Stat two text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:214
+msgid "Stat three number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:221 inc/frontpage-sections.php:425
+msgid "Likes"
+msgstr ""
+
+#: inc/features/feature-about-page.php:227
+msgid "Stat three text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:239
+msgid "Stat four number"
+msgstr ""
+
+#: inc/features/feature-about-page.php:246 inc/frontpage-sections.php:427
+msgid "Shares"
+msgstr ""
+
+#: inc/features/feature-about-page.php:252
+msgid "Stat four text"
+msgstr ""
+
+#: inc/features/feature-about-page.php:259
+msgid "Testimony Settings"
+msgstr ""
+
+#: inc/features/feature-about-page.php:271
+msgid "Hide testimony?"
+msgstr ""
+
+#: inc/features/feature-about-page.php:272
+msgid "If you check this box, Testimony section will disappear."
+msgstr ""
+
+#: inc/features/feature-about-page.php:284
+msgid "Avatar"
+msgstr ""
+
+#: inc/features/feature-about-page.php:290 inc/frontpage-sections.php:578
+msgid ""
+"In Motion has helped me grow my business by over 10% in the past month. The "
+"videos are helpful, easy to follow and are beautifully made. Overall this "
+"is a fantastic resource!"
+msgstr ""
+
+#: inc/features/feature-about-page.php:296
+#: inc/features/feature-homepage-b.php:122
+msgid "Paragraph"
+msgstr ""
+
+#: inc/features/feature-about-page.php:303 inc/frontpage-sections.php:579
+msgid "ASH S. - SMALL BUSINESS OWNER"
+msgstr ""
+
+#: inc/features/feature-about-page.php:309
+msgid "Byline"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:25
+msgid "Change the color scheme"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:27
+msgid "To create your own color palette select \"Custom\" option."
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:36
+msgid "Color 1"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:39
+msgid "Color for sidebar titles and hovers (buttons, links etc.)"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:47
+msgid "Color 2"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:50
+msgid "Main color ( section background, icons, links etc.)"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:58
+msgid "Color 3"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:61
+msgid "Sidebar background color"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:69
+msgid "Color 4"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:72
+msgid "Background color of playlist on Home Page Option A template"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:80
+msgid "Color 5"
+msgstr ""
+
+#: inc/features/feature-color-palettes.php:83
+msgid "Background color of playing video on Home Page Option A template"
+msgstr ""
+
+#: inc/features/feature-copyright-controls.php:29
+msgid "Copyright"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:19
+msgid "Footer Options"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:20
+msgid ""
+"The following settings affect the footer on all pages, see the Widgets > "
+"Main Widget Area panel to add the Helpful Links."
+msgstr ""
+
+#: inc/features/feature-footer-content.php:26
+msgid "Featured Video Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:35
+#: template-parts/footer-content.php:12
+msgid "Learn More About Us By Watching"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:40
+msgid "Featured Video Header"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:52
+#: inc/features/feature-homepage-b.php:67
+msgid "Featured Video"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:62
+msgid "Quick Contact Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:70
+#: template-parts/footer-content.php:73
+msgid "Quick Contact"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:75
+msgid "Quick Contact Header"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:89
+#: template-parts/footer-content.php:82
+msgid "123-456-7890"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:98
+msgid "Add new contact link"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:106
+msgid "Call To Action Settings"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:113
+#: template-parts/footer-content.php:181
+msgid "Videos Delivered"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:126
+#: template-parts/footer-content.php:182
+msgid "Videos delivered to your inbox the day we post."
+msgstr ""
+
+#: inc/features/feature-footer-content.php:139
+#: inc/features/feature-homepage-a-ribbon.php:46
+#: inc/features/feature-homepage-b.php:129 inc/frontpage-sections.php:217
+#: template-parts/footer-content.php:183 template-parts/ribbon-content.php:9
+msgid "Subscribe"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:145
+#: inc/features/feature-homepage-a-ribbon.php:52
+#: inc/features/feature-homepage-b.php:135
+msgid "Button Text"
+msgstr ""
+
+#: inc/features/feature-footer-content.php:158
+#: inc/features/feature-homepage-a-ribbon.php:64
+msgid "Button Link"
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:25
+msgid "Hide ribbon on Homepage A?"
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:26
+msgid "If you check this box, the banner from Homepage A will disappear."
+msgstr ""
+
+#: inc/features/feature-homepage-a-ribbon.php:39
+msgid "Banner Headline"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Option B"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:79
+msgid "Hide videos on Homepage B?"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:80
+msgid "If you check this box, videos from Homepage B will disappear."
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:98
+msgid "Call To Action"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:104 inc/frontpage-sections.php:215
+msgid "A CREATIVE + HELPFUL RESOURCE"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:110
+msgid "Headline"
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:116 inc/frontpage-sections.php:216
+msgid ""
+"We are a resource for creatives wanting to push their business forward. "
+"Using best practices and a keen eye, we curate this video feed for the "
+"business beginner and experienced alike."
+msgstr ""
+
+#: inc/features/feature-homepage-b.php:154
+msgid "Bottom Posts"
+msgstr ""
+
+#: inc/features/feature-search-toggle.php:23
+msgid "Hide search icon?"
+msgstr ""
+
+#: inc/features/feature-search-toggle.php:24
+msgid "If you check this box, the search icon will disappear from header."
+msgstr ""
+
+#: inc/frontpage-sections.php:699
+msgid "Why the.motion"
+msgstr ""
+
+#: inc/frontpage-sections.php:959
+msgid ","
+msgstr ""
+
+#: inc/frontpage-sections.php:964
+msgid "Show more categories"
+msgstr ""
+
+#: inc/frontpage-sections.php:965
+msgid "..."
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/content-contact.php:30
+#: template-parts/content-page.php:29
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: page-templates/template-about-us.php:52
+msgid "See All Posts >"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-footer.php:13
+msgid "Widgets Area 1"
+msgstr ""
+
+#: sidebar-footer.php:20
+msgid "Widgets Area 2"
+msgstr ""
+
+#: sidebar-footer.php:27
+msgid "Widgets Area 3"
+msgstr ""
+
+#: template-parts/content-home-two.php:60 template-parts/content.php:64
+#. translators: %s: Name of current post.
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid "Example  post"
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"This is an example post and it is displayed only for admins. To display "
+"this section on your website, please add a new post."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid "Sorry, nothing found!"
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:50
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/footer-content.php:158
+msgid "Default widget"
+msgstr ""
+
+#: template-parts/footer-content.php:160
+msgid ""
+"To change this, add your widget in Customize -> Widgets -> Footer Single "
+"Widget Area"
+msgstr ""
+
+#: template-parts/footer-content.php:161
+msgid ""
+"To change this, add your widget in <a class=\"link-to-customizer\" "
+"href=\"%s\">Customize -> Widgets</a> -> Footer Single Widget Area ."
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/themotion"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"TheMotion is a clean and elegant WordPress theme primarily made for video "
+"sites, and it can also be a perfect fit for blogs or portfolio websites. It "
+"features a beautiful slider, classy light colors, and a modern appearance. "
+"Its stylish and minimalist design makes it multipurpose, ready to fit any "
+"kind of website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:194
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:201
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+msgctxt "Cabin font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-header.php:37
+msgctxt "header image description"
+msgid "Default image"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""

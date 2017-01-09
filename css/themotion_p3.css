@@ -1,0 +1,219 @@
+.more-link:hover,
+.home-ribbon-intro .btn:hover,
+.themotion-playlist-item:hover,
+.home-ribbon .btn,
+.home-top-area-inner .btn:hover,
+.about-top-area-inner .btn:hover,
+.edd-add-to-cart:hover,
+.edd-add-to-cart:focus,
+.edd-submit.button.blue:hover,
+.edd-submit.button.blue:focus,
+#edd-purchase-button:hover,
+#edd-purchase-button:focus,
+.edd-submit:hover,
+.edd-submit:focus,
+input[type=submit].edd-submit:hover,
+input[type=submit].edd-submit:focus,
+.single-product div.product form.cart .button:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled]:hover,
+.woocommerce input.button,
+#add_payment_method .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	border-color: #8db73c;
+}
+
+@media screen and (min-width: 992px) {
+	.main-navigation ul ul.children,
+	.main-navigation ul ul.sub-menu {
+		background-color: #fff;
+	}
+}
+
+.more-link:hover,
+.home-ribbon-intro .btn:hover,
+.home-ribbon .btn,
+.home-top-area-inner .btn:hover,
+.about-top-area-inner .btn:hover,
+.edd-add-to-cart:hover,
+.edd-add-to-cart:focus,
+.edd-submit.button.blue:hover,
+.edd-submit.button.blue:focus,
+#edd-purchase-button:hover,
+#edd-purchase-button:focus,
+.edd-submit:hover,
+.edd-submit:focus,
+input[type=submit].edd-submit:hover,
+input[type=submit].edd-submit:focus,
+.main-navigation ul ul,
+.single-product div.product form.cart .button:hover,
+.woocommerce ul.products li.product .button:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce input.button:hover,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled]:hover,
+.woocommerce input.button,
+#add_payment_method .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #8db73c;
+}
+
+.search-page .entry-title a:hover,
+a:hover,
+.search-opt:hover,
+.social-media-icons a:hover,
+.home-ribbon .btn:hover,
+.widget-title,
+.recently-item h2.entry-title a:hover {
+	color: #8db73c;
+}
+
+.post-edit-link:hover,
+.contact-link a:before,
+.search-page .entry-title a,
+.sticky .entry-title-blog a,
+.menu-social-footer li a:before,
+.themotion-footer-call-to-action a,
+.contact-link .fa,
+a,
+.search-opt,
+.social-media-icons a,
+.site-title a,
+.home-ribbon-intro .btn,
+.post-navigation .nav-links a:hover,
+.menu-toggle:hover,
+.menu-toggle:focus,
+.site-footer a:hover,
+#menu-social-footer a:before,
+.stat-number,
+.more-link,
+.woocommerce .meta strong,
+.woocommerce .star-rating,
+.woocommerce-message:before,
+.woocommerce-message a,
+.woocommerce-info:before,
+.woocommerce-info a {
+	color: #96ca2d;
+}
+
+.widget_origin_call-to-action .origin-widget-button a {
+	border-color: #96ca2d!important;
+	color: #96ca2d!important;
+}
+
+.themotion-footer-call-to-action a:hover,
+.btn,
+.home-ribbon-intro .btn,
+.post-navigation .nav-previous:hover,
+.post-navigation .nav-next:hover,
+.edd-add-to-cart,
+.edd-submit.button.blue,
+#edd-purchase-button,
+.edd-submit,
+input[type=submit].edd-submit,
+blockquote,
+.woocommerce .single-product div.product form.cart .button,
+.woocommerce ul.products li.product .button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+#add_payment_method .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled],
+.woocommerce-message,
+.woocommerce-info {
+	border-color: #96ca2d;
+}
+
+.themotion-playlist-playing {
+	border-right-color: #96ca2d;
+}
+
+.themotion-footer-call-to-action a:hover,
+.home-ribbon,
+.about-top-area .btn,
+.home-top-area .btn,
+.homepage-two .recently-posted-title,
+input[type="submit"],
+.testimonial-area,
+.page-header-search,
+.archive .page-header,
+.edd-add-to-cart,
+.edd-submit.button.blue,
+#edd-purchase-button,
+.edd-submit,
+input[type=submit].edd-submit,
+.page-main-header,
+.woocommerce .single-product div.product form.cart .button,
+.woocommerce ul.products li.product .button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+#add_payment_method .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce input.button:disabled,
+.woocommerce input.button:disabled[disabled] {
+	background-color: #96ca2d;
+}
+
+.themotion-footer-call-to-action a:hover {
+	color: #fff;
+}
+
+@media screen and (max-width: 991px) {
+	.main-navigation {
+		background-color: #96ca2d;
+	}
+}
+
+.home-ribbon-intro .btn:hover {
+	color: #edf7f2;
+}
+
+.widget-area .widget {
+	background: #edf7f2;
+}
+
+.themotion-playlist-tracks {
+	background: #263432;
+}
+
+.themotion-playlist-item:hover,
+.themotion-playlist-playing {
+	background: #2b5f65;
+}
+
+.themotion-playlist-item:hover,
+.themotion-playlist-item {
+	border-top-color: #2b5f65;
+}
